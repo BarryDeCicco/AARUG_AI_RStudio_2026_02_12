@@ -29,3 +29,23 @@ airquality %>%
   summarise(avg_ozone = mean(Ozone, na.rm = TRUE)) %>
   arrange(desc(avg_ozone))
 
+# correct the above code block
+airquality %>%
+  group_by(Month) %>%
+  summarise(avg_ozone = mean(Ozone, na.rm = TRUE)) %>%
+  arrange(desc(avg_ozone))
+
+# for the above code block, put the results into a good-looking table
+library(knitr)
+library(kableExtra)
+airquality %>%
+  group_by(Month) %>%
+  summarise(avg_ozone = mean(Ozone, na.rm = TRUE)) %>%
+  arrange(desc(avg_ozone)) %>%
+  kable() %>%
+  kable_styling(bootstrap_options = "striped", full_width = FALSE)
+
+
+
+
+
