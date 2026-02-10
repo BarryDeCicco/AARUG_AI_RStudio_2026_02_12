@@ -23,6 +23,9 @@ class MLP(nn.Module):
 
 
 
+# import torch library in r
+library(torch)
+
 
 
 
