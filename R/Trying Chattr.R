@@ -10,5 +10,5 @@
 # Install and load the chattr package
 install.packages("chattr")
 library(chattr)
-attr_use("copilot")
+chattr_use("copilot")
 
