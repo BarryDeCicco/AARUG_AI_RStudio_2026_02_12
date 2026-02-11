@@ -1,4 +1,7 @@
 
+## USING ELLMER (https://ellmer.tidyverse.org/)
+
+
 
 install.packages("ellmer")
 library(ellmer)
@@ -16,3 +19,4 @@ chat$chat("please analyze the data set 'airquality'")
 #################### Interactive chat console ################
 
 live_console(chat)
+
