@@ -28,7 +28,19 @@ and many others.
 
 ## Disadvantages
 
+- These tools are not perfect and can sometimes generate incorrect or suboptimal code.
 
+- They may not always understand the context of your project or the specific requirements of your code.
+
+- They may not be able to handle complex or specialized tasks that require deep domain knowledge.
+
+- They can generate overly complex code, which even skilled people can't.  understand, and which may be difficult to maintain or debug in the future.
+
+- They can be *extremely* sensitive to the exact language of prompts;
+similar prompts can yield very different results.
+
+- They can also 'circle the block', iterating between two versions with the same 
+error message (I haven't seen this mentioned in the literature, but I have seen it happen in practice). This will happen until the user stops.
 
 
 ```{r cars}
