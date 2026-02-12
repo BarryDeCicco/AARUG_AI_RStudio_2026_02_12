@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## AI in R Programming
 
-### Several AI tools are available to assist with R programming, including:
+## Several AI tools are available to assist with R programming, including:
 - ChatGPT from OpenAI,
 
 - Microsoft Copilot,
@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ....and many others.
 
-## Advantages
+### Advantages
 
 - These tools can help you write code faster, debug errors, and learn new techniques.
 
@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - They can help with language translation.
 
-## Disadvantages
+### Disadvantages
 
 - These tools are not perfect and can sometimes generate incorrect or suboptimal code.
 
@@ -50,7 +50,44 @@ similar prompts can yield very different results.
 - They can also 'circle the block', iterating between two versions with the same 
 error message (I haven't seen this mentioned in the literature, but I have seen it happen in practice). This will happen until the user stops.
 
+## My Rankings
+
+1. Posit Assistant (formerly RStudio Assistant) - This tool is specifically designed for R programming and integrates well with RStudio. It provides helpful suggestions and can assist with a wide range of tasks, from writing code to debugging and learning new techniques.  **it is one the best pieces of software I've ever 
+worked with!**  This is also in Beta testing.
+
+2. Claude AI (Anthropic) - this was the easiest to use, with good results and 
+easy iteration and good integration with RStudio. It is a general-purpose AI, but it performed well with R programming tasks.
+
+3. Microsoft Copilot - this tool is integrated with Microsoft products and can assist with coding tasks; but it may not be as specialized for R programming as Posit Assistant (like Claude AI), but works similarly.
+
+4. Github Copilot - this is build into Github, VS Code and Rstudio. The big
+drawback is that it has line by line completion (suggest a line, hit tab to 
+accept that line, hit return, repeat). This can be tedious for long piece of 
+code.
+
+5. ChatGPT (OpenAI) - I found this difficult to integrate into RStudio.
+
+
+
+
+
 
 ```{r cars}
 summary(cars)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
