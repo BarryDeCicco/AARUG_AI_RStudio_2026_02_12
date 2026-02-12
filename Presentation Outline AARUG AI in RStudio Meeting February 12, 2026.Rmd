@@ -124,14 +124,7 @@ be available after this week.
 Demonstrate by switching RStudio versions to the beta test version.
 
 
-
-
-
-
-
-
-
-
+Create a a shiny app to allow the import of an excel file. It will have one button for selecting the folder (starting on folder 'C:\Users\bdeci\Downloads'), a second button to select the Excel workbook, and a third button to select the sheet. After importing the file into a data set, it will print the name of the data set created. It will also show the head of the file, and the structure.
 
 
 
