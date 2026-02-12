@@ -15,7 +15,7 @@ This is a demonstration of Chattr using OpenAI (chatGPT) and Anthropic (ClaudeAI
 
 ```{r setup, include-TRUE}
 
-install.packages("ellmer")
+# install.packages("ellmer")
 library(ellmer)
 ```
 
