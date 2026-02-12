@@ -1,0 +1,7 @@
+{
+  "permission": {
+    "bash": {
+      "mkdir -p \"Posit_Assistant_File_Import\"": "allow"
+    }
+  }
+}
