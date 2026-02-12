@@ -13,17 +13,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Several AI tools are available to assist with R programming, including:
 - ChatGPT from OpenAI,
+
 - Microsoft Copilot,
+
 - Posit Assistant (formerly RStudio Assistant),
+
 - ClaudeAI from Anthropic,
+
 - Github Copilot,
-and many others.
+
+....and many others.
 
 ## Advantages
 
 - These tools can help you write code faster, debug errors, and learn new techniques.
+
 - They can also assist with data analysis, visualization, and even writing reports.
+
 - They can help with debugging and troubleshooting code, which can save you time and frustration.
+
 - They can help with language translation.
 
 ## Disadvantages
