@@ -85,6 +85,13 @@ that users can not find this out.
 
 ## Example - Claude AI
 
+Claude AI performed very well.  It iterates nicely, meaning that it will:
+explain what it's doing, produce code, accept corrective prompts, make
+and explain changes.  It will keep printing out the process in a web page,
+which you can save, and revisit through the URL.  It has a sidebar to make
+it easier to navigate the process.
+
+Demonstrate with [saved Claude AI session](https://claude.ai/chat/5051870e-9ba8-429f-94e6-837777907a21)
  
 
 
