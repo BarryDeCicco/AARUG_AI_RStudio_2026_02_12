@@ -68,7 +68,21 @@ code.
 5. ChatGPT (OpenAI) - I found this difficult to integrate into RStudio.
 
 
+## Example - Github Copilot
 
+This is enabled by selecting Tools > Global Options > Copilot and checking 
+'Enable Github Copilot'.  You might have to sign in to Github.
+
+At that point, if you start a line with a single '#', Github Copilot will 
+suggest something; if you hit 'tab', this will be accepted, and chnage from
+gray to block.
+
+[Demonstrate]
+
+
+## Example - Claude AI
+
+ 
 
 
 
