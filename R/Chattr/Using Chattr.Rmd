@@ -27,7 +27,7 @@ library(ellmer)
 chat <- chat_openai(model = "gpt-4o")
 
 chat <- chat_anthropic()
-chat$chat("Hello from ellmer!")
+# chat$chat("Hello from ellmer!")
 
 
 
