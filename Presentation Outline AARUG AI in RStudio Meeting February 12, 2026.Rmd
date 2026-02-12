@@ -96,22 +96,3 @@ Demonstrate with [saved Claude AI session](https://claude.ai/chat/5051870e-9ba8-
 
 
 
-```{r cars}
-summary(cars)
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
