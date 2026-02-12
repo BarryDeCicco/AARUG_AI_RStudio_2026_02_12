@@ -26,7 +26,7 @@ server <- function(input, output) {
 }
 shinyApp(ui = ui, server = server)
 ```
-This Shiny app allows you to select an Excel file from your computer using a file input. Once you select the file, it will be read into R using the `read_excel` function from the `readxl` package, and the contents of the file will be displayed in a table format in the main panel of the app. Make sure to install the `shiny` and `readxl` packages before running this code.
+## This Shiny app allows you to select an Excel file from your computer using a file input. Once you select the file, it will be read into R using the `read_excel` function from the `readxl` package, and the contents of the file will be displayed in a table format in the main panel of the app. Make sure to install the `shiny` and `readxl` packages before running this code.
 # give the above app a new name, so that it does not conflict with any existing app in the environment.  Call it 'ExcelImporter'.
 ```R
 library(shiny)
