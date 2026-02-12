@@ -18,3 +18,17 @@ This is a demonstration of Chattr using OpenAI (chatGPT) and Anthropic (ClaudeAI
 # install.packages("ellmer")
 library(ellmer)
 ```
+
+## Trying ChatGPT from Open AI:
+
+
+```{r ellmer_chatGPT, include-TRUE}
+
+chat <- chat_openai(model = "gpt-4o")
+
+chat <- chat_anthropic()
+chat$chat("Hello from ellmer!")
+
+
+
+``
