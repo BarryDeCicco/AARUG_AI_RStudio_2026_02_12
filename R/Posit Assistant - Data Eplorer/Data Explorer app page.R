@@ -1,3 +1,7 @@
+## This script is how you start up the Dataset Explorer Shiny app, whic is in:
+## dataset_explorer_app/app.R
+
+## The latter was developed by Posit Assistant.
 
 
 # Show the full path to the app
