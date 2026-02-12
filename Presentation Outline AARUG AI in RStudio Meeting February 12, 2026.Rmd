@@ -77,6 +77,9 @@ At that point, if you start a line with a single '#', Github Copilot will
 suggest something; if you hit 'tab', this will be accepted, and chnage from
 gray to block.
 
+I do not know which model is active in Github Copilot; a Google search suggests
+that users can not find this out.
+
 [Demonstrate]
 
 
