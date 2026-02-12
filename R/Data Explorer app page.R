@@ -8,11 +8,11 @@ cat("To run the app in future sessions, use either:\n")
 cat("1. shiny::runApp('dataset_explorer_app')\n")
 cat("2. Click 'Run App' button when you open app.R in RStudio\n")
 
-C:\Users\bdeci\OneDrive\Documents\RStudio Projects\AARUG_AI_RStudio_2026_02_12\dataset_explorer_app\app.R
+## C:\Users\bdeci\OneDrive\Documents\RStudio Projects\AARUG_AI_RStudio_2026_02_12\dataset_explorer_app\app.R
 
 
 
-
+shiny::runApp('dataset_explorer_app')
 
 
 
