@@ -3,7 +3,7 @@
 
 
 
-install.packages("ellmer")
+## install.packages("ellmer")
 library(ellmer)
 
 chat <- chat_openai(model = "gpt-4o")
