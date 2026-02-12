@@ -93,6 +93,46 @@ it easier to navigate the process.
 
 Demonstrate with [saved Claude AI session](https://claude.ai/chat/5051870e-9ba8-429f-94e6-837777907a21)
  
+## Example - MS Copilot
+
+This also performed well; in many ways it was very similarly to Claude AI.
+
+Demonstrate with [saved MS Copilot session](https://copilot.microsoft.com/chats/eFZjKePBKeZ5G8wA2YKST)
+
+## Example - Ellmer and Chattr
+
+There are several R packages for interfacing with AI's/LLM's.
+They can provide a built in chat interface and also a programming interface.
+
+One is called 'Ellmer' [Tidyverse - ellmer](https://ellmer.tidyverse.org/).
+
+
+Demonstrate with [Tidyverse - ellmer](https://ellmer.tidyverse.org/).
+
+I could not get this to work with ChatGPT - they don't agree on terms.
+
+
+## Example - Posit Assistant
+
+This was the best of all AI's. It was as clear and iterable as Claude AI,
+and also self-tested!
+
+It is only available in beta test now.  I put the instructions for getting it
+in the Meetup page for this session - sign up *now*.  It will probably not 
+be available after this week.
+
+Demonstrate by switching RStudio versions to the beta test version.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
